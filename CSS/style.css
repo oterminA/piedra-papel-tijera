@@ -1,0 +1,28 @@
+body {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    height: 80vh;
+    background-color: rgb(118, 150, 161);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+img{
+    width: 90px;
+    height: 90px;
+    cursor: pointer;
+    margin: 20px;
+    transition: width 0.3s ease-in-out, height 0.3s ease-in-out;
+    border-radius: 40px;
+}
+
+label { 
+    font-size: 15px;
+    font-weight: 600;
+}
+
+img:hover{
+    height: 95px;
+    width: 95px;
+}
