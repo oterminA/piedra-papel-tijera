@@ -2,6 +2,7 @@ Piedra, Papel o Tijera - Juego Clásico Web <br>
 Este repositorio contiene una versión web interactiva del popular juego Piedra, Papel o Tijera. El proyecto está diseñado para que un usuario pueda jugar contra la computadora, aplicando lógica de comparación y generación de estados aleatorios.
 
 > Descripción
+
 El juego permite al usuario seleccionar una de las tres opciones y competir contra una elección realizada automáticamente por el sistema. La aplicación determina el ganador basándose en las reglas tradicionales y muestra el resultado en tiempo real.
 
 > Estructura del Proyecto
